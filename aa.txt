@@ -1,0 +1,3 @@
+Modify a.txt
+Modify a.txt
+changes in file a.txt for gitignore
